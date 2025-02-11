@@ -10,7 +10,7 @@ public class Shop {
         Computer c1 = new Computer();
         c1.setMake("Dell");
         c1.setProcessor("Poop");
-        c1.setMemory(4);
+        c1.setMemory(100);
         c1.setYear(2000);
         c1.setPrice(1000);
 
