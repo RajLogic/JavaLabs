@@ -1,4 +1,4 @@
-package Week1.Task1;
+package Week1.Lab1.Task1;
 
 public class Car {
     static int nextID = 1;
