@@ -18,9 +18,5 @@ public class College {
         System.out.println("\nTutors");
         System.out.println(t1.toString());
 
-
-
-
-
     }
 }
