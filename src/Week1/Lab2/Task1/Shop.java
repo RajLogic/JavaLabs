@@ -1,6 +1,5 @@
 package Week1.Lab2.Task1;
 
-import Week1.Lab1.Task2.Movie;
 
 import java.util.Scanner;
 
