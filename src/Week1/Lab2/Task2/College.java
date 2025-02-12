@@ -12,8 +12,10 @@ public class College {
         c1.setTutor(t1);
         c2.setTutor(t1);
 
+        System.out.println("Classes");
         System.out.println(c1.toString());
         System.out.println(c2.toString());
+        System.out.println("\nTutors");
         System.out.println(t1.toString());
 
 

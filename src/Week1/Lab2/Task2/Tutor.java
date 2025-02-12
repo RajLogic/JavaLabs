@@ -19,6 +19,6 @@ public class Tutor {
     }
 
     public String toString() {
-        return "\nStaff Name: " + staffName + "\nStaff ID: " + staffID ;
+        return "Staff Name: " + staffName + ", Staff ID: " + staffID + "\n";
     }
 }

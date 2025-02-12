@@ -7,7 +7,7 @@ public class Course {
     private Tutor tutor;
     private int weeks;
 
-    public Course (String code, String title, int Weeks) {
+    public Course (String code, String title, int weeks) {
         this.code = code;
         this.title = title;
         this.weeks = weeks;
@@ -35,6 +35,6 @@ public class Course {
 
 
     public String toString() {
-        return "\nCode: " + code + "\nTitle: " + title + "\nTutor: " + tutor + "\nWeeks: " + weeks;
+        return "Code: " + code + ", Title: " + title + ", Weeks: " + weeks  + "\n" + tutor;
     }
 }
