@@ -1,6 +1,5 @@
 package Week1.Lab2.Task1;
 
-import java.time.Year;
 
 public class Computer {
     private String make;

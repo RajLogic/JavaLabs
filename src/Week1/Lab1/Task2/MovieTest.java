@@ -6,11 +6,11 @@ public class MovieTest {
         m1.setTitle("");
         m1.setDirector(" ");
         m1.setYear(0);
-        m1.setRating(0);
+        m1.setRating(10);
         System.out.println("Movie 1 Details: " + m1.toString());
 
 
-        Movie m2 = new Movie("", "",10 ,10 );
+        Movie m2 = new Movie("", "",10 ,5 );
         System.out.println("Movie 2 Details: " + m2.toString());
 
 

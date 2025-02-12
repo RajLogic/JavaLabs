@@ -12,6 +12,15 @@ public class Movie {
         this.director = director;
         this.year = year;
         this.rating = rating;
+//can use this too to set the value and check it in line version instead of setRating
+//        if (rating >= 0 && rating <= 5) {
+//            this.rating = rating;
+//        } else {
+//            this.rating = 0;
+//        }
+
+//        Call function instead
+//        setRating(rating);
     }
 
     public Movie() {
