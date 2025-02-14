@@ -19,9 +19,6 @@ public class Computer {
     public Computer(String make, String processor) {
         this.make = make;
         this.processor = processor;
-        this.memory = 0;
-        this.year = 0;
-        this.price = 0.0;
     }
 
     public Computer(String make, String processor, int memory){
